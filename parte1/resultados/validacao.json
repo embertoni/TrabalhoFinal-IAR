@@ -5,16 +5,13 @@
   "avisos": [],
   "graficos": 9,
   "municipios": 5570,
-  "duracao_segundos": 20.44,
-  "verificacoes": "Execução em pasta temporária contendo inicialmente apenas o notebook; modelos aprovados e três CSVs idênticos aos publicados. Sem bloco de download ou dependências de arquivos de entrada externos.",
+  "duracao_segundos": 16.68,
+  "verificacoes": "Execução em pasta contendo inicialmente apenas o notebook, com leitura direta do CSV público no GitHub; modelos aprovados e três CSVs idênticos à versão anterior.",
+  "origem_dados": "https://raw.githubusercontent.com/embertoni/TrabalhoFinal-IAR/main/parte1/dados/originais/base_original.csv",
+  "requer_internet": true,
   "arquivos_csv": [
     "dados/diagnosticos/influencia.csv",
     "dados/originais/base_original.csv",
     "dados/transformados/base_com_transformacoes.csv"
-  ],
-  "links_arquivos_github": [
-    "https://github.com/embertoni/TrabalhoFinal-IAR/blob/main/parte1/dados/diagnosticos/influencia.csv",
-    "https://github.com/embertoni/TrabalhoFinal-IAR/blob/main/parte1/dados/originais/base_original.csv",
-    "https://github.com/embertoni/TrabalhoFinal-IAR/blob/main/parte1/dados/transformados/base_com_transformacoes.csv"
   ]
 }
