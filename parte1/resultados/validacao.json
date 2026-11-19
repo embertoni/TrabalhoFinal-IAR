@@ -1,10 +1,20 @@
 {
   "status": "aprovado",
-  "celulas_codigo": 30,
+  "celulas_codigo": 29,
   "erros": 0,
   "avisos": [],
-  "graficos": 10,
+  "graficos": 9,
   "municipios": 5570,
-  "duracao_segundos": 22.95,
-  "verificacoes": "Dados, transformações, regressões, intervalos e CSVs aprovados."
+  "duracao_segundos": 20.44,
+  "verificacoes": "Execução em pasta temporária contendo inicialmente apenas o notebook; modelos aprovados e três CSVs idênticos aos publicados. Sem bloco de download ou dependências de arquivos de entrada externos.",
+  "arquivos_csv": [
+    "dados/diagnosticos/influencia.csv",
+    "dados/originais/base_original.csv",
+    "dados/transformados/base_com_transformacoes.csv"
+  ],
+  "links_arquivos_github": [
+    "https://github.com/embertoni/TrabalhoFinal-IAR/blob/main/parte1/dados/diagnosticos/influencia.csv",
+    "https://github.com/embertoni/TrabalhoFinal-IAR/blob/main/parte1/dados/originais/base_original.csv",
+    "https://github.com/embertoni/TrabalhoFinal-IAR/blob/main/parte1/dados/transformados/base_com_transformacoes.csv"
+  ]
 }
